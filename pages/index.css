@@ -1,10 +1,9 @@
 .page {
   min-width: 1100px;
   max-width: 1600px;
-  font-weight: 400;
-  block-size: auto;
-  font-family: Arial, sans-serif;
-  font-family: "Times New Roman", serif;
+  font-family: "inter", "Arial", sans-serif;
   font-size: 16px;
   line-height: 20px;
+  display: block;
+  margin: 0 auto;
 }
